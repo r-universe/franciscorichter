@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "amorem"]
+	path = amorem
+	url = https://github.com/franciscorichter/amorem
 [submodule "phyloatlas"]
 	path = phyloatlas
 	url = https://github.com/franciscorichter/phylo-species-atlas
