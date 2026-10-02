@@ -5,6 +5,9 @@
 [submodule "amorem"]
 	path = amorem
 	url = https://github.com/franciscorichter/amorem
+[submodule "causalreg"]
+	path = causalreg
+	url = https://github.com/franciscorichter/causalreg
 [submodule "phyloatlas"]
 	path = phyloatlas
 	url = https://github.com/franciscorichter/phylo-species-atlas
