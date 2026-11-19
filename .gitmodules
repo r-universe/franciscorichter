@@ -8,6 +8,9 @@
 [submodule "causalreg"]
 	path = causalreg
 	url = https://github.com/franciscorichter/causalreg
+[submodule "emphasis"]
+	path = emphasis
+	url = https://github.com/franciscorichter/emphasis
 [submodule "phyloatlas"]
 	path = phyloatlas
 	url = https://github.com/franciscorichter/phylo-species-atlas
